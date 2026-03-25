@@ -50,7 +50,7 @@ const Contact: React.FC = () => {
 
   const directors = [
     'Francis Kanja Kinyanjui',
-    'Jane Watihira Kariuki',
+    'Jane Waithira Kariuki',
     'Amos Kariuki Kanja'
   ];
 
